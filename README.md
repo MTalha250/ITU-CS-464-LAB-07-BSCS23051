@@ -4,7 +4,7 @@
 **Roll number:** BSCS23051
 **Course:** CS-464 Game Development, Lab 07
 
-**Demo video:** link coming soon
+**Demo video:** [Riverlight demo, 70 s (Google Drive)](https://drive.google.com/file/d/1MTTH_xMJpV3cB7RwjbwGrtbujDCSmJjM/view?usp=sharing)
 
 Riverlight is a small mobile game I made up for this lab. You guide a paper lantern down a river at night and catch sparks. I built 10 connected screens for it in Unity: title, main menu, level select, lantern loadout, shop, settings, gameplay, pause, results and credits. Everything is real UI in one scene. Every button works, and you can get to every screen and back out of it.
 
